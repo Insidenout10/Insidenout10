@@ -1,4 +1,5 @@
-### Hi there 👋
+My name is Julie and I own a cleaning busineß
+
 
 <!--
 **Insidenout10/Insidenout10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
